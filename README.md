@@ -1,4 +1,4 @@
-# 🤖 Daneel
+# 🤖 crystal ai
 
 ## Create your own GPT-powered chat bot
 
