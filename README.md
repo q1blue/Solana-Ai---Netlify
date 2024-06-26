@@ -1,4 +1,4 @@
-# 🤖 Daneel
+# 🤖 solana ai
 
 ## Create your own GPT-powered chat bot
 
